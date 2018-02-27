@@ -10,8 +10,8 @@ Arbeitsplatz:
 
  - Ein Arbeitsplatz umfasst:
   - 27" FullHD Monitor
-  - Tastatur (Apple)
-  - Maus (Logitech)
+  - Tastatur (standartmäßig Apple)
+  - Maus (Logitech M500)
   - Laptop Ständer
-  - Laptop Ladegeräte
-  - Netzwerkanschluss
+  - Laptop Ladegeräte (Apple)
+  - Netzwerkanschluss (+ Thunderblot Adapter)
