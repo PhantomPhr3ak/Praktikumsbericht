@@ -1,8 +1,8 @@
 Arbeitszeiten: 
 - flexibel
-- Start ~8:30
-- Ende ~17:00
-- Pause ~1h
+- Start: ~8:30
+- Ende: ~17:00
+- Pause: ~1h
 
 Arbeitsplatz: 
 - Jeder Angestellte hat ein Laptop (die meisten MacBooks), sodass man überall arbeiten kann
