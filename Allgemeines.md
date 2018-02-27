@@ -28,3 +28,4 @@ Gebäude:
   - Entwicklung
   - Ein Büro mit 10 Arbeitsplätzen
   - 2 Büros mit jeweils 2 Arbeitsplätzen
+- mehr als genug Parkplätze
