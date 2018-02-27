@@ -1,0 +1,5 @@
+- Start um 10 Uhr
+- Rundgang durch Gebäude
+- Meeting mit dem Entwicklungsleiter (Philip Demey) und 2 Webentwicklern, bei dem der allgemeine Ablauf des Praktikums besprochen wird
+- Mittagspause um 12 Uhr
+- Einarbeiten in Symfony
