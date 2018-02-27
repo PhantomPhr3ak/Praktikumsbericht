@@ -4,6 +4,7 @@ Arbeitszeiten:
 - Ende: ~17:00
 - Pause: ~1h
 
+
 Arbeitsplatz: 
 - Jeder Angestellte hat ein Laptop (die meisten MacBooks), sodass man überall arbeiten kann
 - Ein Arbeitsplatz umfasst:
@@ -13,6 +14,10 @@ Arbeitsplatz:
   - Laptop Ständer
   - Laptop Ladegeräte (Apple)
   - Netzwerkanschluss (+ Thunderblot Adapter)
+  - ergonomischer Bürostuhl
+- Ruhige Atmosphäre
+- Whiteboards entlang der Wände
+
 
 Gebäude:
 - Modernes Bürogebäude
