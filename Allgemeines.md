@@ -27,4 +27,4 @@ Gebäude:
 - 2. Etage
   - Entwicklung
   - Ein Büro mit 10 Arbeitsplätzen
-  - 3 Büros mit jeweils 2 Arbeitsplätzen
+  - 2 Büros mit jeweils 2 Arbeitsplätzen
