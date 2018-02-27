@@ -1,3 +1,8 @@
+Fahrzeiten:
+- Olfen -> Coesfeld ~40min
+- Coesfeld -> SChöppingen ~20min
+
+
 Arbeitszeiten: 
 - flexibel
 - Start: ~8:30
@@ -33,4 +38,4 @@ Gebäude:
   - Entwicklung
   - Ein Büro mit 10 Arbeitsplätzen
   - 2 Büros mit jeweils 2 Arbeitsplätzen
-- mehr als genug Parkplätze
+- mehr als genug Parkplätze (getrennt zwischen Besucher und Angestellte)
