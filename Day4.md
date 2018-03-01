@@ -14,4 +14,4 @@ Yannik:
   - Login/Registry in Symfony
   - Security measurements in Symfony
   
--Weiterarbeit an TIF Projekt
+- Weiterarbeit an TIF Projekt
