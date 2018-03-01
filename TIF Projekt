@@ -1,0 +1,2 @@
+Bei dem erwähnten TIF Projekt, handelte es sich um die ursprüngliche Aufgabe eine Website zu bauen, welche mittels SQL Daten speichert und ausgeben kann.
+Im Praktikum nutzen wir Symfony und die eingebaute Funktion Doctrine um damit Daten in Datenbanken zu übertragen/auszulesen.
