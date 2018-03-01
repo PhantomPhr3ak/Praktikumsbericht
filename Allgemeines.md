@@ -22,6 +22,7 @@ Arbeitsplatz:
   - ergonomischer Bürostuhl
 - Ruhige Atmosphäre
 - Whiteboards entlang der Wände
+- Bilder an den Wänden
 
 
 Gebäude:
