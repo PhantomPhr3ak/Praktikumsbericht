@@ -1,6 +1,6 @@
 Start: 8:40
-Pause: 
-Ende: 
+Pause: 12.00 - 12.45
+Ende: 17.00
 
 Kai:
 - Guides zu:
