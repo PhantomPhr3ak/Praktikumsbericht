@@ -5,7 +5,7 @@ Ende: 17.00
 Kai:
 - Guides zu:
   - Foreign Keys in Doctrine
-  - 
+  - Einstieg in Security Service
 - Weiterarbeit an TIF Projekt
 
 
