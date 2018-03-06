@@ -11,3 +11,7 @@ Yannik:
 Kai: 
 - 9:00 Uhr Nachbesprechung des Workshops
 - Bis ~13 Uhr wiederholung der Doctrine Associations
+
+Allgemein:
+- Vorstellung des Ticketsystems der Firma
+- Vorstellung eines aktuellen Auftrags der Firma
