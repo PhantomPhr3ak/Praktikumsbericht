@@ -1,6 +1,6 @@
 Start: 8:30 Uhr
-Ende: 17 Uhr
 Pause: 12 -13 Uhr
+Ende: 17 Uhr
 
 Kai:
 - Tutorials zu:
