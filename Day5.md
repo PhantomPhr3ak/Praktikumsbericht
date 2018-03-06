@@ -1,6 +1,4 @@
 Start 8.30
-Pause:
-Ende:
 
 - Kai:
   - Security Service Guide
