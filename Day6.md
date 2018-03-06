@@ -8,3 +8,4 @@ Teambesprecheung zum Auftakt der Woche
 Workshop zum Thema "Testing mit Code Coverage"
 (Codestandart, Tests in Codeception, Senelium)
 
+Der Workshop ist dreiteilig wobei wir nur den ersten mitnahmen, weil die Inhalte zu fortgeschritten wurden.
