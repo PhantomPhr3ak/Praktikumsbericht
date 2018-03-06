@@ -15,3 +15,4 @@ Kai:
 Allgemein:
 - Vorstellung des Ticketsystems der Firma
 - Vorstellung eines aktuellen Auftrags der Firma
+- Projekt: Vertrags- und Kontingentverwaltung
