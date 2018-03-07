@@ -6,11 +6,15 @@ Yannik:
 - 9:00 Uhr Nachbesprechung des Workshops
 - In Docker einlesen
 - Doctrine 2 functions durchlesen in der documentation
-
+- 13-14 Uhr - Einlesen ins Projekt
+- 14-15:30 Uhr - Erstellen der nötigen Entities
 
 Kai: 
 - 9:00 Uhr Nachbesprechung des Workshops
-- Bis ~13 Uhr wiederholung der Doctrine Associations
+- Bis ~13 Uhr - wiederholung der Doctrine Associations
+- 13-14 Uhr - Einlesen ins Projekt
+- 14-15:30 Uhr - Erstellen der nötigen Entities
+- 15:30 - 17 Uhr - Projekt in kleine Aufgaben aufspalten und Karten bei Trello anlegen
 
 Allgemein:
 - Vorstellung des Ticketsystems der Firma
