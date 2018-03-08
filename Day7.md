@@ -8,6 +8,7 @@ Yannik:
 - Doctrine 2 functions durchlesen in der documentation
 - 13-14 Uhr - Einlesen ins Projekt
 - 14-15:30 Uhr - Erstellen der nötigen Entities
+- Aufgaben und Notizen des Projekts digitalisieren
 
 Kai: 
 - 9:00 Uhr Nachbesprechung des Workshops
