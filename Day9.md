@@ -1,5 +1,6 @@
-8.30
-16.00
+Anfang:8.30
+Ende: 16.00
+Pause: 12-12.45
 
 - Yannik:
 - CustomerConstoller:
